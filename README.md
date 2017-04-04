@@ -1,3 +1,12 @@
+This numbers game challenges you to correctly solve the sum of two randomly produced numbers; the player is presented with four random options in a similar range to the correct answer. This game includes 'GameOver' and 'Play Again' animations through Animate.css
+<h1>Technologies Used </h1>
+<ul>
+<li>React / Javascript </li>
+<li>Node.js</li>
+<li> Animate.css </li>
+</ul>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
